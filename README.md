@@ -1,7 +1,5 @@
 UEA: Temas Selectos en Computación (Métodos Heurísticos para Optimización)
 
-Metodología ágil usada: SCRUM.
-
 Lenguaje usado: Python
 
 Proyecto 1: Búsqueda local.
