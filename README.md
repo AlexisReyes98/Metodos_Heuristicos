@@ -24,11 +24,11 @@ Este problema recibe por entrada un archivo que contiene el número de ciudades 
 
 Funciones de prueba de optimización.
 
-file:///home/alexis/Im%C3%A1genes/Six-hump%20camel.jpeg![imagen](https://user-images.githubusercontent.com/72325257/230697680-7694fd52-bb41-494f-b648-92e47121b783.png)
+[imagen](https://user-images.githubusercontent.com/72325257/230697680-7694fd52-bb41-494f-b648-92e47121b783.png)
 
-file:///home/alexis/Im%C3%A1genes/Ackley.png![imagen](https://user-images.githubusercontent.com/72325257/230697688-c82657cf-f50e-451b-864f-40485ac9ba70.png)
+[imagen](https://user-images.githubusercontent.com/72325257/230697688-c82657cf-f50e-451b-864f-40485ac9ba70.png)
 
-file:///home/alexis/Im%C3%A1genes/Schwefel.png![imagen](https://user-images.githubusercontent.com/72325257/230697693-48c088f2-d358-4930-810d-990f12c61eb4.png)
+[imagen](https://user-images.githubusercontent.com/72325257/230697693-48c088f2-d358-4930-810d-990f12c61eb4.png)
 
 La finalidad de estas funciones es evaluar la calidad de la solución propuesta. Las funciones de Ackley y Schwefel presentan valles accidentados, lo que puede derivar en que el resultado no llegue a un óptimo global y se quede atrapado en un óptimo local. Por otro lado, la función Six-hump camel no presenta este problema, por lo que es más fácil que el resultado se encuentre muy cercano al óptimo global.
 
